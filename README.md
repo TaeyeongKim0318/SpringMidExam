@@ -134,7 +134,7 @@
                ```
 <br>
 
-5. **Servlet Life Cycle**
+5. **Servlet의 Mapping**
    1. 클라이언트의 요청에 따라 Servlet이 생성될 때 사용자가 집적 Servlet Class의 파일 명을 지정하지 못하고 Mapping 정보를 이용해 요청할 수 있다. Mapping 방식은 XML 방식과 Annotation 방식이 있다.<br>
    ![Servlet의 Mapping](Img/servlet-annotations.png)
    2. **XML(Extensible Markup Language) 방식**
